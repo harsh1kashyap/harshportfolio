@@ -1,0 +1,19 @@
+.conatct_us{
+    margin-left: 50px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.conatct_us .left
+{
+    font-size: 40px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.conatct_us .right
+{
+    
+}
+
