@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/harshportfolio/static/css/main.e4de2604.chunk.css",
+    "main.js": "/harshportfolio/static/js/main.3751b557.chunk.js",
+    "main.js.map": "/harshportfolio/static/js/main.3751b557.chunk.js.map",
+    "runtime-main.js": "/harshportfolio/static/js/runtime-main.47cfacb6.js",
+    "runtime-main.js.map": "/harshportfolio/static/js/runtime-main.47cfacb6.js.map",
+    "static/css/2.14351861.chunk.css": "/harshportfolio/static/css/2.14351861.chunk.css",
+    "static/js/2.bce62985.chunk.js": "/harshportfolio/static/js/2.bce62985.chunk.js",
+    "static/js/2.bce62985.chunk.js.map": "/harshportfolio/static/js/2.bce62985.chunk.js.map",
+    "index.html": "/harshportfolio/index.html",
+    "precache-manifest.466e660554d2fd18e407dff45d8aadcb.js": "/harshportfolio/precache-manifest.466e660554d2fd18e407dff45d8aadcb.js",
+    "service-worker.js": "/harshportfolio/service-worker.js",
+    "static/css/2.14351861.chunk.css.map": "/harshportfolio/static/css/2.14351861.chunk.css.map",
+    "static/css/main.e4de2604.chunk.css.map": "/harshportfolio/static/css/main.e4de2604.chunk.css.map",
+    "static/js/2.bce62985.chunk.js.LICENSE": "/harshportfolio/static/js/2.bce62985.chunk.js.LICENSE",
+    "static/media/Pencil.jpg": "/harshportfolio/static/media/Pencil.ea556f76.jpg",
+    "static/media/hello.jpg": "/harshportfolio/static/media/hello.9c552238.jpg",
+    "static/media/laptop1.jpg": "/harshportfolio/static/media/laptop1.87561258.jpg",
+    "static/media/sam.jpg": "/harshportfolio/static/media/sam.fa7276b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47cfacb6.js",
+    "static/css/2.14351861.chunk.css",
+    "static/js/2.bce62985.chunk.js",
+    "static/css/main.e4de2604.chunk.css",
+    "static/js/main.3751b557.chunk.js"
+  ]
+}
