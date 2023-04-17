@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65f6dd92c14b6127a32bcbc3e39201e9",
+    "revision": "2e103f02adc344daf9a4aa2c32c4ce87",
     "url": "/harshportfolio/index.html"
   },
   {
-    "revision": "17c20b8eb62ec4ded09a",
+    "revision": "5f0cf7d56ccc89eea228",
     "url": "/harshportfolio/static/css/2.14351861.chunk.css"
   },
   {
-    "revision": "d4b864b6600d214ca913",
-    "url": "/harshportfolio/static/css/main.e4de2604.chunk.css"
+    "revision": "be7a83dfeae71b8b5fb2",
+    "url": "/harshportfolio/static/css/main.cf79a501.chunk.css"
   },
   {
-    "revision": "17c20b8eb62ec4ded09a",
-    "url": "/harshportfolio/static/js/2.bce62985.chunk.js"
+    "revision": "5f0cf7d56ccc89eea228",
+    "url": "/harshportfolio/static/js/2.2ac010e8.chunk.js"
   },
   {
     "revision": "76c33606446526c6ec38bc107ec65a87",
-    "url": "/harshportfolio/static/js/2.bce62985.chunk.js.LICENSE"
+    "url": "/harshportfolio/static/js/2.2ac010e8.chunk.js.LICENSE"
   },
   {
-    "revision": "d4b864b6600d214ca913",
-    "url": "/harshportfolio/static/js/main.3751b557.chunk.js"
+    "revision": "be7a83dfeae71b8b5fb2",
+    "url": "/harshportfolio/static/js/main.f4155bb5.chunk.js"
   },
   {
     "revision": "508f35ef700b1e48074c",
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/harshportfolio/static/media/laptop1.87561258.jpg"
   },
   {
-    "revision": "fa7276b6936be889b698c0f45c7bd964",
-    "url": "/harshportfolio/static/media/sam.fa7276b6.jpg"
+    "revision": "b64f84bcacc6ce1020c901db9c168572",
+    "url": "/harshportfolio/static/media/sam.b64f84bc.jpg"
   }
 ]);
